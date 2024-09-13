@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  list-style: none;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+
+html, body, #app {
+  width: 100%;
+  height: 100%;
+}
+
+#vue {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+html {
+  background-color: aliceblue;
+}
+
+main {
+  flex: 1 1 auto;
+  padding: 10px;
+  background-color: brown;
+  color: wheat;
+}
+
+footer {
+  background-color: wheat;
+  color: brown;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  padding: 10px 25px;
+} */
